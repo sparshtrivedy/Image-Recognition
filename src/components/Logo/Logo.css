@@ -1,0 +1,12 @@
+.tilt {
+	width: 150px;
+	height: 150px;
+	margin: 0;
+	padding-top: 0;
+	font-family: sans-serif;
+	background: rgba(252,176,69,1);
+}
+
+div {
+	padding-top: 10px;
+}
